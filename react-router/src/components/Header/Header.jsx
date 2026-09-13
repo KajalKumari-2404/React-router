@@ -117,7 +117,7 @@ export default function Header() {
                                          hover:text-orange-700
                                           lg:p-0`
                                     }
-                                >
+                                    >
                                     Github
                                 </NavLink>
                             </li>
