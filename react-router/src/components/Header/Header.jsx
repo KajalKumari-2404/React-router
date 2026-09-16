@@ -3,6 +3,7 @@ import { Link, NavLink } from 'react-router-dom';
 // a tag isiliye use nhi karte kyuki page refresh hota h uski jagah link use karte h rect dom me
 // navlink kuchh additional cheeze provide karti h 
 
+
 export default function Header() {
     return (
         <header className="shadow sticky z-50 top-0">
