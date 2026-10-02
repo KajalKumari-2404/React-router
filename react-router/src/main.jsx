@@ -48,7 +48,7 @@ const router = createBrowserRouter(
 
     </Route>
   )
-)
+);
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
