@@ -20,7 +20,7 @@ function Github() {
      <img src={data.avatar_url} alt="Git picture" width={300} />
     </div>
   )
-}
+};
 
 export default Github
 

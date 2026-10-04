@@ -7,6 +7,6 @@ function User() {
   return (
     <div className='bg-gray-600 text-white text-3xl p-4 flex items-center justify-center'> User: {userid} </div>
   )
-}
+};
 
 export default User
